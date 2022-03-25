@@ -55,7 +55,7 @@ tasks*
 
 ### My Programming Journey
 Programming had always been something I was interested in, but for a long time I always considered it something that I
-would do eventually. I manage a variety of different communities and I was gaining interest in creating my own systems.
+would do eventually. I manage a variety of different communities, and I was gaining interest in creating my own systems.
 One problem I have with community management programs written by other people is the design itself. I've always been a
 big proponent of the idea which I have coined "advanced simplicity", where a program should be easy to use, but can be 
 built on the specific use the developer initially intended to create something useful for anyone. 
@@ -77,7 +77,7 @@ unlike a language like C#.
 One thing I'd like to make clear is that I am not a natural-born programmer. I did not have any sort of programming
 background aside from basic HTML (which is really a markup language), and I didn't know what I was doing. All I had 
 was a desire to learn, and like every developer, Stack Overflow was my best friend. While I'm still actively learning
-different packages/languages/etc, I'm finally in a position where I would consider myself a good programmer.
+different packages/languages/etc., I'm finally in a position where I would consider myself a good programmer.
 
 My main work is under an online pseudonym which I will not disclose under my legal name for privacy reasons, though I
 may do so in the future. However, I will start posting my projects that aren't meant for use by my online persona here 
