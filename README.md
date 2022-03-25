@@ -24,6 +24,7 @@ tasks*
     - pymongo (Experienced)
     - requests (Experienced)
     - aiohttp (Experienced)
+    - Flask (Intermediate)
     - sqlite (Intermediate)
     - asyncio (Intermediate)
     - regex (Beginner)
